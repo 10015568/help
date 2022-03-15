@@ -16,6 +16,7 @@ public class VRGitDemo
 
 		PerfectSquare s = (int num) -> Math.sqrt(num) == Math.floor(Math.sqrt(num));
 		System.out.println(s.test(144));
+		//learned lambda notation, Math.floor method, and comparing values in an interface
 
 		//QUOTIENT
 		Quotient q = (float a, float b) -> System.out.printf("%.3f", a/b);
