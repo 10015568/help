@@ -22,5 +22,12 @@ public class VRGitDemo
 		Quotient q = (float a, float b) -> System.out.printf("%.3f", a/b);
 		q.quo(5f, 2f);
 
+		//Sydney
+		/*
+			I have a better understanding of how repositories and GitKraken work, and I know how to make
+			branches and merge them. In addition, I am aware of how to push and pull new updates to and from a
+			partner. Communication was also a vital part in completing this project because Anisha and I
+			both ran into problems and had to collaborate to figure out how to fix them.
+		*/
 	}
 }
